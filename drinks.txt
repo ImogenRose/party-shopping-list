@@ -5,3 +5,5 @@ coke
 vodka
 gin
 tonic
+OJ
+Vodca
