@@ -2,3 +2,6 @@ beers
 apple juice
 rum 
 coke
+vodka
+gin
+tonic
